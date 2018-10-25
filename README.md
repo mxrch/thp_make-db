@@ -1,24 +1,27 @@
-# README
+# The Hacking Project - Database of Blog
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
+## :mag: The content
+In these exercises, I had to design a database for a blog.
 
-* Ruby version
+**After cloning the repository, make sure to do :**
+```sh
+$ cd thp_make-db-blog
+$ bundle install
+```
 
-* System dependencies
+You can also generate random data in the database by doing :
+``sh
+$ rails db:seed
+```
 
-* Configuration
+This will install all the dependencies needed for the exercises.
 
-* Database creation
+## :european_post_office: The Strasbourgeois Crew
+Done in team with @OwwllMan, @zOmegad, @Runefire32 and @BrokenPirate. :heart:
 
-* Database initialization
+<hr>
 
-* How to run the test suite
+***It's an exercise from the TheHackingProject bootcamp.***
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+***> www.thehackingproject.org***
