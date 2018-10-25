@@ -2,7 +2,14 @@
 
 
 ## :mag: The content
-In these exercises, I had to design a database for a blog.
+In these exercises, I had to design a **database for a blog**.
+
+***This includes :***
+* Users,
+* Articles,
+* Categories,
+* Comments,
+* and Likes.
 
 **After cloning the repository, make sure to do :**
 ```sh
