@@ -11,7 +11,7 @@ $ bundle install
 ```
 
 You can also generate random data in the database by doing :
-``sh
+```sh
 $ rails db:seed
 ```
 
